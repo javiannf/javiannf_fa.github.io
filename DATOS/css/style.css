@@ -13,7 +13,7 @@ body{
     background-color: black;
 }
 .greetings{
-    font-size: 1rem;
+    font-size: 5px;
     font-weight: 900;
 }
 .greetings >h1 > span{
